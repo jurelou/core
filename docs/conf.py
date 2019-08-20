@@ -16,7 +16,7 @@ extensions = [
 ]
 
 source_suffix = '.rst'
-source_index = '.index'
+master_doc = 'index'
 
 html_theme = 'sphinx_rtd_theme'
 html_logo = "demo/static/logo-wordmark-light.svg"
